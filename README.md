@@ -2,7 +2,7 @@
 
 pip install pillow
 
-give the folder path
+give the resours folder path
 
 give the resolutions (hight and width)
 
