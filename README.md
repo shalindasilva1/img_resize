@@ -1,13 +1,13 @@
 # Image Resize
 
-pip install pillow
+pip install pillow 
 
-give the resours folder path
+give the resource folder path 
 
-give the resolutions (hight and width)
+give the resolutions (height and width) 
 
-gave a folder name to save
+gave a folder name to save 
 
-and thats it!
+and thats it! 
 
-it will be save in the working directory 
+it will be save in the working directory
