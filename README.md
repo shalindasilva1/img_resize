@@ -2,8 +2,8 @@
 
 pip install pillow
 
-give the folder path 
-give the resolutions (hight and width)
-gave a folder name to save 
-and thats it!
-it will be save in the working directory
+give the folder path \n
+give the resolutions (hight and width) \n
+gave a folder name to save \n
+and thats it! \n
+it will be save in the working directory \n
